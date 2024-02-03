@@ -1,0 +1,6 @@
+WARNING:root:A warning occured at line 3
+ERROR:root:A error occured at line 4
+CRITICAL:root:A critical at line 5
+WARNING:root:A new warning occured at line 3
+ERROR:root:A new error occured at line 4
+CRITICAL:root:A new critical at line 5

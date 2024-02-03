@@ -1,0 +1,5 @@
+2024-01-29 13:36:28,014-Sheetal-DEBUG-A new bug is found at line 6
+2024-01-29 13:36:28,014-Sheetal-INFO-A new information is found at line 7
+2024-01-29 13:36:28,015-Sheetal-WARNING-A new warning occured at line 8
+2024-01-29 13:36:28,015-Sheetal-ERROR-A new error occured at line 9
+2024-01-29 13:36:28,015-Sheetal-CRITICAL-A new critical at line 10

@@ -1,0 +1,6 @@
+2024-01-29 14:04:01,170-root-DEBUG-A new bug is found at line 1
+2024-01-29 14:04:01,171-root-INFO-A new information is found at line 2
+2024-01-29 14:04:01,171-root-WARNING-A new warning occured at line 3
+2024-01-29 14:04:01,171-root-ERROR-A new error occured at line 4
+2024-01-29 14:04:01,172-root-CRITICAL-A new critical at line 5
+The information could be updated

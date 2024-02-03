@@ -1,0 +1,11 @@
+2024-01-29 13:51:15,072-Division Calculator-INFO-The function could be called
+2024-01-29 13:51:26,496-Division Calculator-INFO-The function could be called
+2024-01-29 13:51:43,702-Division Calculator-INFO-The function could be called
+2024-01-29 13:51:46,271-Division Calculator-ERROR-An Error Occured!!
+2024-01-29 13:51:46,271-Division Calculator-ERROR-Information of the Error:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_11900\3225966678.py", line 10, in division_Calculator
+    quo=div/den
+        ~~~^~~~
+ZeroDivisionError: division by zero
